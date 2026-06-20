@@ -1,4 +1,3 @@
-# nightmaresummon
        * {
             scrollbar-width: none;
             -ms-overflow-style: none;
